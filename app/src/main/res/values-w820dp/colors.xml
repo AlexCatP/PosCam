@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_menu_bg">#aa111213</color>
+    <color name="common_title_bg">#aa111213</color>
+    <color name="primary_title_text_color">#ff888888</color>
+    <color name="common_title_text">#ff565555</color>
+    <color name="common_text_yellow">#ffffe049</color>
+    <color name="album_item_bg">#fffcfcfd</color>
+    <color name="video_playter_bg">#333333</color>
+    
+      <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="black">#000000</color>
+    <!-- 黑色 -->
+    <color name="transBlack">#35000000</color>
+    <!-- 透明黑色 -->
+    <color name="transWhite">#50FFFFFF</color>
+    <!-- 透明白色 -->
+    <color name="shanZhaRed">#FF0000</color>
+    <!-- 山楂红 #fd676a-->
+    <color name="lighterGray">#e3e3e3</color>
+    <!-- 超浅灰 -->
+    <color name="lightGray">#CCCCCC</color>
+    <!-- 浅灰 -->
+    <color name="textGray">#ABAAAA</color>
+    <!-- 文字灰 -->
+    <color name="bgColor">#f7f7f7</color>
+    <!-- 背景颜色 -->
+    <color name="darkGray">#444444</color>
+    
+    
+    
+        <!-- 画面背景色 -->
+    <drawable name="layout_backgroud">#000000</drawable>
+    
+    <!-- 分割线背景色 -->
+    <drawable name="line_background">#161823</drawable>
+    <!-- 控件按下时显示的颜色 -->
+    <color name="list_backgroud_color">#2fb3cb</color>
+    <color name="title_color">#0f8ec5</color>
+    <color name="content_color">#737373</color>
+</resources>

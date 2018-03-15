@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能pose相机</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+ 
+     <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+
+       <!-- UI Elements -->
+    <string name="btn_capture">Click</string>
+
+    <string name="filter_toggle_title">滤镜</string>
+
+    <!-- Nav label -->
+    <string name="component_camera">pose相机</string>
+    <string name="component_editor">照片美化</string>
+
+    <!-- sample group -->
+    <string name="sample_group_comp">相册组件</string>
+    <string name="sample_group_define">API</string>
+    <string name="sample_group_suite">图片编辑套件</string>
+
+
+    <!-- samples -->
+    <string name="sample_EditMultipleComponent">照片美化</string>
+    <string name="sample_AlbumComponent">相册组件</string>
+
+    <string name="sample_api_CameraBase">个性化相机</string>
+
+   
+</resources>
